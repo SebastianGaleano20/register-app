@@ -1,0 +1,48 @@
+
+.contenedor { 
+    margin: 50px 0px 50px 600px;
+    width: 700px;
+    max-width: 100%;
+    border-radius: 20px;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(
+      90deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(46, 124, 144, 1) 48%,
+      rgba(0, 212, 255, 1) 100%
+    );
+  }
+  
+  .formulario {
+    font-size: 1.3em;
+    text-align: center;
+  }
+  
+  .lab {
+    margin: auto;
+    display: block;
+  }
+  .inp {
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px ridge #50bfff;
+    background: rgb(171, 171, 171);
+    background: linear-gradient(
+      90deg,
+      rgba(171, 171, 171, 1) 0%,
+      rgba(247, 247, 247, 1) 48%,
+      rgba(187, 187, 187, 1) 100%
+    );
+    color: #0F1C2E;
+  }
+  
+  .boton{
+      padding: 10px;
+      color: #0F1C2E;
+      margin-bottom: 10px;
+      border-radius: 5px;
+      cursor: pointer;
+  }
+  

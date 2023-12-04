@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Dosis", sans-serif;
+  font-family: "Josefin Sans", sans-serif;
+  font-family: "Sometype Mono", monospace;
+  color: #F0F2F5 ;
+}
+body {
+    background-image: url(./imgs/G6TLRSWGSFLRDWKOM32OASTYRI.jpg);
+    background-size:auto;
+}
